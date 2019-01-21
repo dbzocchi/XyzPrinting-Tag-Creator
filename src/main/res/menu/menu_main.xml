@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/reset_reel"
+        android:enabled="true"
+        android:title="@string/Reset_Reel"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/set_PWD"
+        android:enabled="true"
+        android:title="@string/Set_Pwd"
+        android:visible="true" />
+
+</menu>
